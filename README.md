@@ -1,4 +1,3 @@
-# SQL-Injection
 # SQL-INJECTION
 <table>
   <thead>
